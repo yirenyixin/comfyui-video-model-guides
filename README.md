@@ -5,9 +5,6 @@
 > ComfyUI 根目录：`D:\ComfyUI\workspace\<YOUR_WORKSPACE>\ComfyUI`  
 > 教程版本日期：2026-10-03
 
-> [!CAUTION]
-> 本教程使用的是 **PinkCherry 无审查（NSFW / uncensored）模型**。模型可能生成成人或敏感内容，仅限成年人在合法、合规并获得必要同意的前提下使用。禁止用于未成年人、非自愿内容、真人深度伪造、骚扰、剥削或其他违法用途。下载和使用前请阅读并遵守模型许可证、Hugging Face 仓库规则以及所在地法律法规。
-
 ## 1. 安装 Hugging Face 命令行工具
 
 在 PowerShell 中执行：
