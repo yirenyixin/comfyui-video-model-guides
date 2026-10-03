@@ -6,9 +6,6 @@
 > Example ComfyUI root: `D:\ComfyUI\workspace\<YOUR_WORKSPACE>\ComfyUI`  
 > Guide date: 2026-10-03
 
-> [!CAUTION]
-> This guide uses the **PinkCherry uncensored (NSFW) model**. It may generate adult or sensitive content. Use it only as an adult, lawfully, with all necessary consent. Never use it for minors, non-consensual content, real-person deepfakes, harassment, exploitation, or any illegal purpose. Read and follow the model license, Hugging Face rules, and the laws that apply to you.
-
 ## 1. Install the Hugging Face CLI
 
 Open PowerShell and run:
@@ -521,5 +518,4 @@ f5d4953f3386197a4b4f5abdb17616ff256171e8075c111d6e7d2dfa6e823b3a
 - [ ] The first test uses `832×480`, 3 seconds, and 24 FPS.
 - [ ] I2V uses `false`; T2V uses `true` for the no-image-reference switch.
 - [ ] ComfyUI Desktop was fully restarted after model or custom-node changes.
-
 
